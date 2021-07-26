@@ -1,0 +1,12 @@
+http://localhost:8081/show_first_records
+http://localhost:8081/show_structure
+http://localhost:8081/show_summary
+http://localhost:8081/show_top_companies
+http://localhost:8081/show_pie_chart
+http://localhost:8081/show_top_titles
+http://localhost:8081/title_bar_chart
+http://localhost:8081/show_top_areas
+http://localhost:8081/location_bar_chart
+http://localhost:8081/show_top_skills
+http://localhost:8081/show_YearsExp
+http://localhost:8081/kMeans
