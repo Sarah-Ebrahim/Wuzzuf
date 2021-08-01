@@ -71,7 +71,7 @@ public class HTMLTableBuilder {
      */
     public void addRowValues(String... values) {
         if (values.length != columns) {
-            System.out.println("Error column lenth");
+            System.out.println("Error column length");
         } else {
             int lastIndex = table.lastIndexOf(ROW_END);
             if (lastIndex > 0) {
