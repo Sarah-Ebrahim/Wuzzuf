@@ -42,7 +42,7 @@ public class DisplayHtml {
 			String encodedfile = new String(Base64.encodeBase64(bytes) , "UTF-8");
 
 			return "<div>" +
-					"<p>team petrol </p>" +
+					"<p>team Aliens </p>" +
 					"<img src=\"data:image/png;base64, "+encodedfile+"\" alt=\"Red dot\" />" +
 					"</div>";
 		} catch (IOException e) {
